@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.username {
+  font-weight: 700;
+}
+
+.btn {
+  background-color: rgb(48, 48, 158);
+  color: azure;
+  width: 80px;
+  height: 35px;
+  cursor: pointer;
+  border-radius: 20px;
+  padding: 5px;
+  transition: all 200ms;
+}
+.btn:hover {
+  background-color: #4b5186;
+  transform: scale(1.05);
+}
