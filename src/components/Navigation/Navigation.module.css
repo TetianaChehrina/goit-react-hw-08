@@ -1,4 +1,9 @@
-/* .navigation {
+.navigation {
   display: flex;
   gap: 24px;
-} */
+}
+
+.list {
+  text-decoration: none;
+  color: azure;
+}
